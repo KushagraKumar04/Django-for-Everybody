@@ -10,13 +10,13 @@
    - For Chrome: Right-click on the page and select "Inspect", then go to the "Network" tab.
    - For Firefox: Right-click on the page and select "Inspect Element", then go to the "Network" tab.
      
-![Second](2Pic.jpg)
+![Second](2pic.jpg)
 
 3. Refresh the page while the Network tab is open.
 
 4. Click on the request for intro-short.txt to see the HTTP response headers.
 
-![Third](3Pic.jpg)
+![Third](3pic.jpg)
 
 6. Locate the following headers and copy their values:
 
